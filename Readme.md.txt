@@ -1,1 +1,1 @@
-Olá, estou adicionando esse arquivo via linha de comando!
+Olá, estou adicionando esse arquivo via linha de comando! (:
